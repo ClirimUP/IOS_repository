@@ -1,0 +1,50 @@
+//
+//  Localizable.strings
+//  kwikFM
+//
+//  Created by MacOS on 24/09/21.
+//  Copyright © 2021 MacOS. All rights reserved.
+//
+
+"Connection failed, please check your Internet connection" = "Connection failed, please check your Internet connection";
+"Your username or password is incorrect, please try again" = "Your username or password is incorrect, please try again";
+"Connection with the server failed" = "Connection with the server failed";
+"Login failed" = "Login failed";
+"Title" = "Title";
+"Category" = "Category";
+"Comment" = "Comment";
+"Created" = "Created";
+"Updated" = "Updated";
+"Diameter" = "Diameter";
+"Item number" = "Item number";
+"Length" = "Length";
+"Manufacturer" = "Manufacturer";
+"Minimum holding" = "Minimum holding";
+"Model" = "Model";
+"Height" = "Height";
+"Not assembled" = "Not assembled";
+"Stock" = "Stock";
+"Type" = "Type";
+"Width" = "Width";
+"Properties" = "Properties";
+"More details" = "More details";
+"Search furniture item" = "Search furniture item";
+"Search" = "Search";
+"Furniture item not found" = "Furniture item not found";
+"You don't have access" = "You don't have access";
+"Search reservations" = "Search reservations";
+"Customer" = "Customer";
+"Timeline ID" = "Timeline ID";
+"Designation" = "Designation";
+"Reproach date" = "Reproach date";
+"Status" = "Status";
+"Comment" = "Comment";
+"Are you sure you want to log out?" = "Are you sure you want to log out?";
+"Tap the screen to continue" = "Tap the screen to continue";
+"There was an error while assigning to the reservation" = "There was an error while assigning to the reservation";
+"The server successfully processed the request, but is not returning any content" = "The server successfully processed the request, but is not returning any content";
+"Yes" = "Yes";
+"Cancel" = "Cancel";
+"No reservations available" = "No reservations available";
+"Enter a barcode manually" = "Enter a barcode manually";
+"Scan a barcode" = "Scan a barcode";

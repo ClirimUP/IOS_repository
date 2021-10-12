@@ -1,0 +1,57 @@
+
+/* Class = "UINavigationItem"; title = "Scan"; ObjectID = "7Je-xj-VPP"; */
+"7Je-xj-VPP.title" = "Scan";
+
+/* Class = "UIViewController"; title = "Details"; ObjectID = "8EN-jc-i4L"; */
+"8EN-jc-i4L.title" = "Einzelheiten";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "EOP-xc-5KM"; */
+"EOP-xc-5KM.placeholder" = "Passwort";
+
+/* Class = "UITextField"; placeholder = "Server URL"; ObjectID = "GbK-NI-hXq"; */
+"GbK-NI-hXq.placeholder" = "Server URL";
+
+/* Class = "UIViewController"; title = "Properties"; ObjectID = "MdW-7t-Ufz"; */
+"MdW-7t-Ufz.title" = "Eigenschaften";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "aFQ-zn-87W"; */
+"aFQ-zn-87W.placeholder" = "Benutzername";
+
+/* Class = "UILabel"; text = "kwikFM"; ObjectID = "gTu-vV-sCL"; */
+"gTu-vV-sCL.text" = "kwikFM";
+
+/* Class = "UIButton"; normalTitle = "Reserve"; ObjectID = "rlX-pg-8yH"; */
+"rlX-pg-8yH.normalTitle" = "Reservieren";
+
+/* Class = "UIBarButtonItem"; title = "Log out"; ObjectID = "y1x-2E-zgc"; */
+"y1x-2E-zgc.title" = "Ausloggen";
+
+/* Class = "UIViewController"; title = "More details"; ObjectID = "u2c-2d-hwC"; */
+"u2c-2d-hwC.title" = "Mehr details";
+
+/* Class = "UIViewController"; title = "Properties"; ObjectID = "MdW-7t-Ufz"; */
+"MdW-7t-Ufz.title" = "Eigenschaften";
+
+/* Class = "UIViewController"; title = "Reservations"; ObjectID = "Mf4-7A-rOb"; */
+"Mf4-7A-rOb.title" = "Reservierungen";
+
+/* Class = "UINavigationItem"; title = "Reservation Details"; ObjectID = "G7A-tj-znG"; */
+"G7A-tj-znG.title" = "Reservierung details";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "thR-Zg-AnE"; */
+"thR-Zg-AnE.title" = "Annullieren";
+
+/* Class = "UINavigationItem"; title = "Batch Scanning"; ObjectID = "aWV-3Q-V97"; */
+"aWV-3Q-V97.title" = "Stapelscannen";
+
+/* Class = "UINavigationItem"; title = "Reservation Details"; ObjectID = "5uY-lY-8Wh"; */
+"5uY-lY-8Wh.title" = "Zuweisen ergebnis";
+
+/* Class = "UIButton"; normalTitle = "Finish"; ObjectID = "tNd-R2-ajV"; */
+"tNd-R2-ajV.normalTitle" = "Fertig";
+
+/* Class = "UIButton"; normalTitle = "End"; ObjectID = "Tdr-Oj-mxT"; */
+"Tdr-Oj-mxT.normalTitle" = "Enden";
+
+/* Class = "UIButton"; normalTitle = "Assign"; ObjectID = "ffe-U9-jcC"; */
+"ffe-U9-jcC.normalTitle" = "Zuweisen";

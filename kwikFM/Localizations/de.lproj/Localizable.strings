@@ -1,0 +1,49 @@
+//
+//  Localizable.strings
+//  kwikFM
+//
+//  Created by MacOS on 24/09/21.
+//  Copyright © 2021 MacOS. All rights reserved.
+//
+
+"Connection failed, please check your Internet connection" = "Verbindung fehlgeschlagen, überprüfen Sie bitte Ihre Internetverbindung";
+"Your username or password is incorrect, please try again" = "Ihr Benutzername oder Passwort ist falsch. Bitte versuchen Sie es erneut";
+"Connection with the server failed" = "Verbindung mit dem Server fehlgeschlagen";
+"Login failed" = "Anmeldung fehlgeschlagen";
+"Title" = "Titel";
+"Category" = "Kategorie";
+"Comment" = "Kommentar";
+"Created" = "Erstellt";
+"Updated" = "Aktualisiert";
+"Diameter" = "Durchmesser";
+"Item number" = "Artikelnummer";
+"Length" = "Länge";
+"Manufacturer" = "Hersteller";
+"Minimum holding" = "Mindestbestand";
+"Model" = "Modell";
+"Height" = "Höhe";
+"Not assembled" = "Nicht zusammengebaut";
+"Stock" = "Stock";
+"Type" = "Typ";
+"Width" = "Breite";
+"Properties" = "Eigenschaften";
+"More details" = "Mehr details";
+"Search furniture item" = "Möbelstück suchen";
+"Search" = "Suchen";
+"Furniture item not found" = "Möbelstück nicht gefunden";
+"You don't have access" = "Sie haben keinen zugriff";
+"Search reservations" = "Reservierungen suchen";
+"Customer" = "Kunde";
+"Timeline ID" = "Zeitachsen-ID";
+"Designation" = "Bezeichnung";
+"Reproach date" = "Vorwurfsdatum";
+"Status" = "Status";
+"Are you sure you want to log out?" = "Möchtest du dich wirklich abmelden?";
+"Tap the screen to continue" = "Tippen Sie auf den bildschirm";
+"There was an error while assigning to the reservation" = "Beim zuweisen an die reservierung ist ein fehler aufgetreten";
+"The server successfully processed the request, but is not returning any content" = "Der Server hat die Anfrage erfolgreich verarbeitet, gibt jedoch keinen Inhalt zurück";
+"Yes" = "Ja";
+"Cancel" = "Annullieren";
+"No reservations available" = "Keine Reservierung verfügbar";
+"Enter a barcode manually" = "Geben Sie einen Barcode manuell ein";
+"Scan a barcode" = "Scannen Sie einen Barcode";
